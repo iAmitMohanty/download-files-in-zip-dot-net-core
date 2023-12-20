@@ -1,6 +1,6 @@
 # Download Files in ZIP - .NET Core
 
-This project demonstrates how to create and download multiple files as a ZIP archive in a .NET Core application.
+This project demonstrates how to enable users to download files in a zip format from a .NET Core Web API. This feature is particularly useful when you need to provide users with a convenient way to download multiple files at once while reducing the download size using compression..
 
 ## Description
 
